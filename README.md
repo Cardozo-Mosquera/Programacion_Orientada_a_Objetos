@@ -117,8 +117,6 @@ El propósito de estos ejercicios es reforzar los conocimientos adquiridos duran
 
 ---
 
-## 👨‍💻 Autor
-
 **Emmanuel Cardozo Mosquera**
 
 Proyecto desarrollado con fines académicos como parte del proceso de aprendizaje de Python.
